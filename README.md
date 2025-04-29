@@ -1,6 +1,6 @@
 # Matthew Pepper
 
-**Global Strategy & Automation Enthusiast | Learning Software Development**
+**Global Strategy & Automation Enthusiast | Data Analysis and Software Development**
 
 Exploring the intersection of business strategy, automation, and software tools — building systems that work for real businesses.
 
